@@ -5,7 +5,6 @@ A lightweight, highly optimized Tampermonkey userscript designed to seamlessly c
 ### 📥 Installation & Links
 
 * **Install via GreasyFork:** [Webtoon Ripper Userscript](https://greasyfork.org/en/scripts/563063-all-lezhin-beltoon-bomtoon-kakao-webtoon-mr-blue-toptoon-jp-ripper-all-languages?utm_source=gemini) *(Tampermonkey recommended)*
-* **GitHub Repository:** [View Source](https://github.com/OZLER365/All-Lezhin-Beltoon-Bomtoon-KakaoWebtoon-MrBlue-ToptoonJP-Ripper-All-Languages?utm_source=gemini)
 * **Developer Portfolio:** [Ozler's Works](https://ozler365.github.io/ozler-s-works-info/?utm_source=gemini#/repositories)
 
 ---
